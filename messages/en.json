@@ -1,0 +1,75 @@
+{
+
+  "HomePage": {
+    "title": "Home"
+  },
+  "LocaleSwitcher": {
+    "de": "🇩🇪 Deutsch",
+    "en": "🇺🇸 English",
+    "th": "🇹🇭 Thai",
+    "switchLocale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}",
+    "label": "Language"
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  },
+  "Error": {
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "title": "Something went wrong!"
+  },
+  "NotFoundPage": {
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "title": "Page not found"
+  },
+  "Form": {
+    "title": "Form",
+    "no": "No.",
+    "name": "First Name",
+    "surname": "Last Name",
+    "fullname":"Full Name",
+    "type": "Type here",
+    "save": "Save",
+    "update": "Update",
+    "age": "Age",
+    "occ": "Occupation",
+    "action": "Action",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deletedsuccess": "Deleted successfully!",
+    "yes": "Yes",
+    "text": "Your data has been deleted",
+    "model": "Are you sure you want to delete this item?",
+    "con": "Confirm",
+    "can": "Cancel",
+    "wtdata": "Please check the data",
+    "wdata": "Please fill out all the required fields",
+    "tdata": "Are you sure!",
+    "dedata": "Do you want to delete this data?",
+    "updates": "Updated successfully!",
+    "success": "Saved successfully!",
+    "select": "Please select",
+    "prefix": "Title",
+    "mr": "Mr.",
+    "ms": "Ms.",
+    "mrs": "Mrs.",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "of",
+    "next": "Next",
+    "itemsPerPage": "Items per page"
+},
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Docs"
+      },
+      "source": {
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Source code"
+      }
+    }
+  }
+}
