@@ -1,7 +1,7 @@
 {
   "name": "crud",
   "version": "0.1.0",
-  "private": true,
+ "author": "Jirawat Ratsamee (https://github.com/kungjirawat4)",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
